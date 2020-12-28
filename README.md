@@ -12,7 +12,7 @@
 
 ![capture](https://user-images.githubusercontent.com/60275617/103237873-fe54a380-4916-11eb-9e9e-1bfdf6ffd821.PNG)
 #### Reference: https://www.researchgate.net/figure/Original-image-Lenna-left-the-watermarked-copy-with-parameters_fig1_3720351
-- Right amount of watermark intensity will be invisible by human perspective.
+- Right amount of watermark intensity will be invisible to human.
 
 ## Reference
 https://medium.com/pallycon/how-netflix-protects-contents-part-2-33c1b60002a3
