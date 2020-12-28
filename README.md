@@ -14,5 +14,5 @@
 #### Reference: https://www.researchgate.net/figure/Original-image-Lenna-left-the-watermarked-copy-with-parameters_fig1_3720351
 - Right amount of watermark intensity will be invisible by human perspective.
 
-# Reference
+## Reference
 https://medium.com/pallycon/how-netflix-protects-contents-part-2-33c1b60002a3
